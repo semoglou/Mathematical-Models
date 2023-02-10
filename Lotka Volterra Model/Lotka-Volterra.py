@@ -119,21 +119,3 @@ plt.xlabel('Prey')
 plt.ylabel('predator')
 plt.title('Phase - Space Graph with and without harvest')                   # Center of the Harvest - Graph is ( (g+v)/d, (a-u)/b )
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
