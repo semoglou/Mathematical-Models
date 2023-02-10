@@ -1,2 +1,5 @@
-# Mathematical-Models
-Mathematical Models Analysis
+### Mathematical Models | Arithmetical and Graphical Analysis 
+
+* SIR Epidemic Model
+* Lotka - Volterra (Predator-Prey) Competition Model
+
