@@ -1,7 +1,7 @@
 ### Mathematical Models | Numerical and Graphical Analysis 
 
 <div id="header" align="center">
-  <img src="http://i.imgur.com/FoOkq5B.gif" width="100"/>
+  <img src="http://i.imgur.com/FoOkq5B.gif" width="300"/>
 </div>
 
 * Malthus and Verhulst Models 
