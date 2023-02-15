@@ -1,4 +1,4 @@
-### Mathematical Models | Numerical and Graphical Analysis 
+### <div align="center"> Mathematical Models | Numerical and Graphical Analysis 
 
 <div id="header" align="center">
   <img src="http://i.imgur.com/FoOkq5B.gif" width="300"/>
