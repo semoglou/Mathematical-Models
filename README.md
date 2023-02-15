@@ -1,4 +1,4 @@
-### <div align="center"> Mathematical Models
+## <div align="center"> Mathematical Models
   
 <div id="header" align="center">
   <img src="http://i.imgur.com/FoOkq5B.gif" width="250"/>
