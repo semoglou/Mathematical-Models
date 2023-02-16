@@ -1,7 +1,7 @@
 ## <div align="center"> Mathematical Models
   
 <div id="header" align="center">
-  <img src="https://rtavenar.github.io/blog/fig/dtw_shift.gif" width="400"/>
+  <img src="https://rtavenar.github.io/blog/fig/dtw_shift.gif" width="300"/>
 </div>
 
 * Malthus and Verhulst Models 
