@@ -10,6 +10,7 @@
 * SEIR Epidemic Model
 * Enzyme Catalyze Reaction Model
 * Geometric Brownian Motion Model
+* Monte Carlo Method
 
 
 
