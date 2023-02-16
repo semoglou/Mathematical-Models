@@ -1,7 +1,8 @@
 ## <div align="center"> Mathematical Models
   
 <div id="header" align="center">
-  <img src=""C:\Users\semog\Desktop\PythonScripts\1676511587067.png"" width="400"/>
+  <img src="![1676511587067](https://user-images.githubusercontent.com/124189083/219243541-d733d1fc-4249-486d-8577-cb337ea490d2.png)
+" width="400"/>
 </div>
 
 * Malthus and Verhulst Models 
