@@ -1,7 +1,7 @@
 ## <div align="center"> Mathematical Models
   
 <div id="header" align="center">
-  <img src="https://storage.googleapis.com/coderzcolumn/static/tutorials/data_science/time-series-trend-16.jpg" width="400"/>
+  <img src="https://i0.wp.com/geoffboeing.com/wp-content/uploads/2015/04/logistic-3d-poincare-plot-chaotic-regime-animated.gif?resize=572%2C460&ssl=1" width="400"/>
 </div>
 
 * Malthus and Verhulst Models 
