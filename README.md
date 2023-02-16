@@ -1,7 +1,7 @@
 ## <div align="center"> Mathematical Models
   
 <div id="header" align="center">
-  <img src="https://i0.wp.com/geoffboeing.com/wp-content/uploads/2015/04/logistic-3d-poincare-plot-chaotic-regime-animated.gif?resize=572%2C460&ssl=1" width="400"/>
+  <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*GUjIYs3dhe69gIF3EU0aWw.png" width="400"/>
 </div>
 
 * Malthus and Verhulst Models 
