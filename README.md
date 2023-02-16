@@ -15,5 +15,6 @@
 * Monte Carlo Method
 
 ### Note
-if you want to point out something, or to ask anything about both the applied and pure math behind the models, you can send me here: semoglouangelos@gmail.com .
+  
+if you want to point out something, or to ask anything about both the applied and pure math behind the models, you can send me here: semoglouangelos@gmail.com 
 
