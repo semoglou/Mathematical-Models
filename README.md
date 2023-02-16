@@ -1,7 +1,7 @@
 ## <div align="center"> Mathematical Models
   
 <div id="header" align="center">
-  <img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*GUjIYs3dhe69gIF3EU0aWw.png" width="400"/>
+  <img src="https://www.encora.com/hubfs/Picture1-May-23-2022-06-36-13-91-PM.png" width="400"/>
 </div>
 
 * Malthus and Verhulst Models 
