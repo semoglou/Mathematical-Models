@@ -4,7 +4,9 @@
   <img src="https://rtavenar.github.io/blog/fig/dtw_shift.gif" width="350"/>
 </div>
 
-* Malthus and Verhulst Models 
+### Models and Methods Overview 
+
+* Malthus  and Verhulst Models 
 * Lotka - Volterra (Predator-Prey) Competition Model
 * SIR Epidemic Model
 * SEIR Epidemic Model
