@@ -140,11 +140,3 @@ k2 = 4
 
 # Example
 plot_enzyme_model_phase_space(E0, t, k1a, k1b, k2)
-
-        
-
-
-
-
-
-
