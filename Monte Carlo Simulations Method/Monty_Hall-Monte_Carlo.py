@@ -41,17 +41,3 @@ def monty_hall(iterations):
     plt.show()
 
 monty_hall(10000)
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
