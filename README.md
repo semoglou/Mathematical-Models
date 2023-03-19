@@ -13,6 +13,7 @@
 * Enzyme Catalyze Reaction Model
 * Geometric Brownian Motion Model
 * Monte Carlo Method
+* Simple Stochastic Model of stock price dynamics 
 
 ### Note
   
