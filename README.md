@@ -10,12 +10,6 @@
 * Lotka - Volterra (Predator-Prey) Competition Model
 * SIR Epidemic Model
 * SEIR Epidemic Model
-* Enzyme Catalyze Reaction Model
 * Geometric Brownian Motion Model
 * Monte Carlo Method
 * Simple Stochastic Model of stock price dynamics 
-
-### Note
-  
-To point out something, or to ask anything about both the applied and pure math behind the models, you can send me here: semoglouangelos@gmail.com 
-
